@@ -1,0 +1,19 @@
+.container{
+  width:400px;
+  margin: auto;
+  text-align: center;
+  font-size: 20px;
+
+}
+
+h1{
+  color: chocolate;
+}
+
+button{
+  color: tomato;
+  padding: 15px 15px;
+  font-size: 20px;
+  cursor: pointer;
+ 
+}

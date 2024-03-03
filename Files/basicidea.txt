@@ -1,0 +1,15 @@
+//Basic Idea
+// function abc(){
+//   const object = {
+//     on: ()=>{
+//       console.log('hello')
+//     },
+//     hi : 34
+//   };
+//   return object
+// }
+
+// const obj = abc();
+// console.log(obj);
+
+jjohphoihio
